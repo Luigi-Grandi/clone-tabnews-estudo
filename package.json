@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews-estudo",
+  "version": "1.0.0",
+  "description": "Um repositório para estudo e desenvolvimento de um clone do tabnews.com.br para o curso.dev ! :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
