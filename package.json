@@ -4,7 +4,7 @@
   "description": "Um repositório para estudo e desenvolvimento de um clone do tabnews.com.br para o curso.dev ! :D",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev" : "next dev"
   },
   "author": "",
   "license": "MIT",
