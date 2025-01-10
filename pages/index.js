@@ -22,8 +22,8 @@ function Home()
     return (
     <div style={{ backgroundImage: `url(${'./151b5440c9.webp'})` }}>
     <img src={"/ervin_head.gif"} alt="erwin" />
-    <h1 style={grad1Style}>Bom dia amante da Mikasa</h1>
-    <h1 style={grad2Style}>Você foi pego, não é a Mikasa, apenas Erwin Smith</h1>
+    <h1 style={grad1Style}>Bom dia amante da Mikasa!</h1>
+    <h1 style={grad2Style}>Você foi pego, não é a Mikasa, apenas A máquina Erwin Smith 😎</h1>
     <img src={"/ervin_horse.gif"} alt="erwin" />
     <h2>SASAGEYO SASAGEYO 🥳🥳🥳🎉🎉🎉🫀🫀💀⚰️😨😨😭😭🤬🤬☠️☠️👻🥳🥳🥳🎉🎉🎉</h2>
     <img src={"/erwin-smith-charge.gif"} alt="erwin" />
