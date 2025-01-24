@@ -25,7 +25,7 @@ function Home() {
       <img src={"/ervin_head.gif"} alt="erwin" />
       <h1 style={grad1Style}>Bom dia amante da Mikasa!</h1>
       <h1 style={grad2Style}>
-        Você foi pego, não é a Mikasa, apenas A máquina Erwin Smith 😎
+        Você foi pego, não é a Mikasa, apenas a máquina Erwin Smith 😎
       </h1>
       <img src={"/ervin_horse.gif"} alt="erwin" />
       <h2>
